@@ -1,0 +1,42 @@
+Copyright (c) 2026 Begüm (Victoria) Abanonu. All Rights Reserved.
+
+This repository contains original equity research, written analysis, data
+presentation, and interactive presentation code authored by Begüm (Victoria)
+Abanonu. It is published publicly for the sole purpose of demonstrating the
+author's research and technical work to prospective employers and collaborators.
+
+PERMITTED
+
+  - Viewing the published presentation.
+  - Linking to this repository or to the published presentation.
+  - Brief quotation for the purpose of commentary, review, or evaluation of the
+    author's work, provided the author is credited by name.
+
+NOT PERMITTED WITHOUT PRIOR WRITTEN PERMISSION
+
+  - Copying, reproducing, republishing, or redistributing any part of this
+    work, in whole or in part, in any medium.
+  - Creating derivative works, including modified or rebranded versions of the
+    presentation, its written analysis, or its source code.
+  - Any commercial use of any kind.
+  - Presenting this work, or any portion of it, as the work of another person
+    or organisation.
+
+Requests for permission may be directed to the author.
+
+THIRD-PARTY COMPONENTS
+
+This project includes the Three.js library (https://threejs.org), which is
+distributed under the MIT License and remains the property of its respective
+copyright holders. That license applies to the Three.js code only, and not to
+the research, analysis, written content, design, or presentation code authored
+by Begüm (Victoria) Abanonu.
+
+DISCLAIMER
+
+This work is provided "as is", without warranty of any kind, express or implied.
+The contents are prepared as an equity research work sample and represent the
+author's own estimates, scenario weights, and opinions. Nothing in this
+repository constitutes investment advice, an offer, or a solicitation to buy or
+sell any security. The author accepts no liability for any decision made in
+reliance on this material.
